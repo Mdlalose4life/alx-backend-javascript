@@ -1,0 +1,19 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "ES6 Basics",
+  "main": "0-constants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alx-backend-javascript-1/0x00-ES6_basic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alx-backend-javascript-1/0x00-ES6_basic/issues"
+  },
+  "homepage": "https://github.com/alx-backend-javascript-1/0x00-ES6_basic#readme"
+}
