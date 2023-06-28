@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/alx-backend-javascript-1/0x00-ES6_basic/issues"
   },
-  "homepage": "https://github.com/alx-backend-javascript-1/0x00-ES6_basic#readme"
+  "homepage": "https://github.com/alx-backend-javascript-1/0x00-ES6_basic#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "babel-jest": "^29.5.0",
+    "eslint": "^8.43.0",
+    "jest": "^29.5.0"
+  }
 }
