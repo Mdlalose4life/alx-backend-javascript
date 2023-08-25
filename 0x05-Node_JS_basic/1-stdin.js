@@ -1,3 +1,5 @@
-process.stdout.write("Hello ")
+const fs = require('fs')
 
-process.stdout.write("World ")
+function countStudents(() {
+    fs.readFileSync
+})
